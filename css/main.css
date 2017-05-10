@@ -25,6 +25,7 @@ h1 {
 }
 p {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    line-height: 1.1em;
     color: #333;
 }
 footer {
